@@ -18,20 +18,20 @@
 #### Lab 01
 * Training Metrics on 10 Training Loop
 
-> ![image](https://github.com/Kelniter/MnM/assets/174873950/a95bd585-f623-4ab2-ba82-4f44e5148223)
+> ![image](https://github.com/user-attachments/assets/8e72ba4c-65d5-4a24-a3a4-72301a1bdce9)
 
 * Testing Metrics on 10 Training Loop
 
-> ![image](https://github.com/Kelniter/MnM/assets/174873950/cd17aac9-09e8-458d-8eb6-ef4569939b17)
+> ![image](https://github.com/user-attachments/assets/236a3456-4fbe-4d49-9bfe-da1663eca027)
 
 #### Lab 03
 * Training Metrics on 5 Training Loop
 
-> ![image](https://github.com/Kelniter/MnM/assets/174873950/6984b226-ae41-43fe-98f8-560e2db7e8f3) 
+> ![image](https://github.com/user-attachments/assets/df07f958-ef24-45f8-8064-2714ef82c1bb)
 
 * Testing Metrics on 5 Training Loop
 
-> ![image](https://github.com/Kelniter/MnM/assets/174873950/c8beb048-eeac-4a00-b43f-006286a6ec1e)
+> ![image](https://github.com/user-attachments/assets/ef83e34c-e2b3-400d-8acc-e13a1e4df581)
 
 ### 📘 Others
 * [Model on FastAPI ?](https://github.com/Xeroniter/Harti)
