@@ -34,4 +34,4 @@
 > ![image](https://github.com/user-attachments/assets/ef83e34c-e2b3-400d-8acc-e13a1e4df581)
 
 ### 📘 Others
-* [Model on FastAPI ?](https://github.com/Xeroniter/Harti)
+* [Model on FastAPI ?](https://github.com/Kelnit/Harti)
